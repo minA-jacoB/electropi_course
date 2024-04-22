@@ -12,6 +12,6 @@ if file_type == "csv":
 elif file_type == "xlsx":
     df= pd.read_excel(filename)
 
-st.write(df)
+st.df
 
 st.write("kdlewer")
