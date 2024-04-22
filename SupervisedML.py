@@ -3,7 +3,7 @@ import pandas as pd
 
 
 #from **pycaret.regression** import *****
-df=()
+df=
 
 filename = st.text_area("write your csv or excel file name")
 file_type = filename.split(".")[-1]
