@@ -1,4 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pycaret as 
+from pycaret.classification import *
+from pycaret.regression import *
+
 st.write("kdlewer")
