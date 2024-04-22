@@ -1,2 +1,2 @@
-import streamlit a st
+import streamlit as st
 st.write("kdlewer")
