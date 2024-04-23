@@ -13,5 +13,5 @@ elif file_type == "xlsx":
     df= pd.read_excel(filename)
 
 st.df
-
+pd.read_csv(insurance.csv)
 st.write("kdlewer")
